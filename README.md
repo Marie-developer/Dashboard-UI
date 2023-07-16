@@ -1,4 +1,4 @@
-![Dashboard UI](https://i.imgur.com/QyN2C33.jpg)
+![Dashboard UI](https://github.com/Zero-fetch/Dashboard-UI/assets/132278868/4a43852f-abea-414c-afe3-e8dceecca4d6)
 
 # Dashboard UI
 
